@@ -8,6 +8,7 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 
@@ -220,7 +221,7 @@ footer p {
         height: auto;
         width: 638px;
         flex-direction: column;
-        overflow: hidden;
+        overflow-x: hidden;
     }
     .header{
         margin-right: 60px;
