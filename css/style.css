@@ -143,6 +143,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 30px;
+    margin-bottom: 90px;
 }
 .supercup{
     /* display: flex; */
@@ -178,8 +179,8 @@ body {
 /* Footer Style Start */
 
 footer {
-    margin-top: 160px;
-    margin-bottom: 160px;
+    margin-top: 280px;
+    margin-bottom: 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
